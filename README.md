@@ -11,7 +11,7 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/anjandas1920/LeetCode-DSA-Solutions.git
+git clone https://github.com/anjan1920/LeetCode-DSA-Solutions.git
 Navigate to the desired directory based on the problem difficulty.
 Open the code files in your preferred editor.
 Contribution
